@@ -2,3 +2,44 @@ html {
   height: 100%;
   width: 100%;
 }
+header{
+  font-size: larger;
+  color: royalblue;
+  border: 2px solid rgb(32, 13, 206);
+  background-color: black;
+}
+
+p{
+  font-size: 25px;
+  margin: 32px;
+  color: rgb(255, 51, 0);
+}
+.paragraph-1{
+  color: rgb(233, 27, 61);
+  background-color: black;
+}
+table, td,th{
+ color: rgb(19, 171, 221);
+ background-color: black  ;
+ border: 5px solid rgb(19, 171, 221);
+ width: 50%;
+}
+
+nav{
+  color: rgb(10, 180, 10);
+}
+ol{
+  color: rgb(207, 23, 23);
+}
+button{
+  color: rgb(233, 30, 30);
+  background-color: black;
+  margin: 25px;
+  padding: 15px;
+}
+footer{
+  color: saddlebrown;
+  font-size: medium;
+  background-color: blue;
+
+}
