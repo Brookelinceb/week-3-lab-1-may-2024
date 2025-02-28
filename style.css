@@ -2,19 +2,14 @@ html {
   height: 100%;
   width: 100%;
 }
-header{
-  font-size: larger;
-  color: royalblue;
-  border: 2px solid rgb(32, 13, 206);
-  background-color: black;
-
-}
-
-p{
-  font-size: 25px;
-  margin: 32px;
+.header{
   color: rgb(255, 51, 0);
+  background-color: black;
+  font-size: xx-large;
 }
+
+
+
 .paragraph-1{
   background-color: rgb(233, 27, 61);
   color: black;
@@ -42,8 +37,10 @@ nav{
   color: rgb(10, 180, 10);
   float: right;
 }
-ol{
+.list{
   color: rgb(207, 23, 23);
+  font-size: xx-large;
+  text-align: left;
 }
 button{
   color: rgb(233, 30, 30);
