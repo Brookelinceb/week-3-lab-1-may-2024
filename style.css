@@ -16,9 +16,21 @@ p{
   color: rgb(255, 51, 0);
 }
 .paragraph-1{
-  color: rgb(233, 27, 61);
-  background-color: black;
+  background-color: rgb(233, 27, 61);
+  color: black;
 }
+.paragraph-2{
+  color: rgb(7, 7, 7);
+  background-color: rgb(13, 218, 166);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+.paragraph-3{
+  color: rgb(233, 27, 61);
+  background-color: rgb(46, 17, 209);
+  font-size: x-small;
+}
+
 table, td,th{
  color: rgb(19, 171, 221);
  background-color: black  ;
